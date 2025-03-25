@@ -1,0 +1,56 @@
+{
+    "folders": [
+        {
+            "name": "CustomProps",
+            "path": "D:/Epic Games/UEFN/UEFN.Verse.CustomProps/CustomProps/Plugins/CustomProps/Content"
+        },
+        {
+            "name": "CustomProps/Assets",
+            "path": "C:/Users/ohmco/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/CustomProps/CustomProps-Assets"
+        },
+        {
+            "name": "vproject - DO NOT MODIFY",
+            "path": "C:/Users/ohmco/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/CustomProps/vproject"
+        },
+        {
+            "name": "Verse",
+            "path": "C:/Users/ohmco/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/CustomProps/Verse"
+        },
+        {
+            "name": "UnrealEngine",
+            "path": "C:/Users/ohmco/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/CustomProps/UnrealEngine"
+        },
+        {
+            "name": "Fortnite",
+            "path": "C:/Users/ohmco/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/CustomProps/Fortnite"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true
+        },
+        "files.autoSave": "onWindowChange",
+        "workbench.colorTheme": "Verse (Dark)",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}

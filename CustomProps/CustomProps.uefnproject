@@ -1,0 +1,45 @@
+{
+	"fileVersion": 15,
+	"versionSuffix": "",
+	"title": "CustomProps",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"kind": "Island",
+	"compatibilityVersion": "34.10",
+	"requiredRedirectorStartingVersion": "34.10.40567068",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "",
+	"plugins": [
+		{
+			"name": "CustomProps",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 1,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Unrestricted",
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "6746fe8c-411d-6970-ac23-619962ba3a44",
+		"projectVersePath": "/ohmcodes@fortnite.com/CustomProps",
+		"modules":
+		{
+			"CustomProps": "9135f845-4f95-c2bf-ea13-f194036342e0"
+		}
+	}
+}
