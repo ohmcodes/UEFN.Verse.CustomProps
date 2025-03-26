@@ -24,7 +24,7 @@
 		"matchmaking":
 		{
 			"maxPlayers": 16,
-			"maxTeamCount": 1,
+			"maxTeamCount": 16,
 			"maxTeamSize": 16,
 			"maxSocialPartySize": 16,
 			"allowJoinInProgress": true,
